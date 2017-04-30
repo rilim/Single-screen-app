@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flint\'s Trove</string>
+    <string name="company_name">Flint\'s Trove</string>
+    <string name="company_information">Our company\'s long-lived traditions and huge experience made us one of the best in this area.</string>
+    <string name="company_offer">In this rare occasion, now we are looking for the new crew members. We promise you unforgettable journey and experience, great and fun company, and fair share of treasures we get.</string>
+    <string name="contact_person">Interested? Contact Capt. Jack</string>
+    <string name="location">Port Royal, pier 12</string>
+    <string name="email">jack@pirate.com</string>
+    <string name="phone">(666) 224488</string>
+
+</resources>
